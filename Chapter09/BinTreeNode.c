@@ -48,8 +48,10 @@ BinTreeNode* addLeftChildNodeBT(BinTreeNode* pParentNode, char data)
 	BinTreeNode* pReturn = NULL;
 	if (pParentNode != NULL) {
 		if (pParentNode->pLeftChild == NULL) {
-			pParentNode->pLeftChild = makeNewNodeBT(data);
-		}
+			//pParentNode->pLeftChild = makeNewNodeBT(data);
+            pReturn = makeNewNodeBT(data);
+            pParentNode->pLeftChild = pReturn;
+        }
 		else {
 			printf("error, node already hear , addLeftChildNodeBT()\n");
 		}
@@ -62,7 +64,9 @@ BinTreeNode* addRightChildNodeBT(BinTreeNode* pParentNode, char data)
 	BinTreeNode* pReturn = NULL;
 	if (pParentNode != NULL) {
 		if (pParentNode->pRightChild == NULL) {
-			pParentNode->pRightChild = makeNewNodeBT(data);
+			//pParentNode->pRightChild = makeNewNodeBT(data);
+            pReturn = makeNewNodeBT(data);
+            pParentNode->pRightChild = pReturn;
 		}
 		else {
 			printf("error, node already hear, addRightChildNodeBT()\n");
