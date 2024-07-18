@@ -1,6 +1,31 @@
-class Queue {
+class Deque {
     constructor() {
         this.items = [];
+    }
+
+    add_front(element) {
+        return this.items.unshift(element);
+    }
+
+
+    add_rear(element) {
+        return this.items.push(element);
+    }
+
+    delete_front() {
+        return this.items.shift();
+    }
+
+    delete_rear() {
+        return this.items.pop();
+    }
+
+    get_front() {
+        return this.items[0];
+    }
+
+    get_rear() {
+        return this.items[this.items.length - 1];
     }
 
     enqueue(element) {
@@ -29,7 +54,9 @@ class Queue {
     }
 
     isEmpty() {
-        return this.items.length == 0;
+        if (this.items.length === 0) {
+            return "빈 큐 입니다."
+        }
     }
 
     size() {
@@ -40,13 +67,3 @@ class Queue {
         this.items = [];
     }
 }
-
-let queue = new Queue();
-queue.enqueue(1);
-queue.enqueue(2);
-queue.enqueue(3);
-console.log(queue.size());
-console.log(queue.front());
-console.log(queue.end());
-
-
