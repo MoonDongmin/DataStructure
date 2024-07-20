@@ -1,10 +1,14 @@
 # DataStructure
-<!DOCTYPE HTML>
-<html>
-  <body>
-    <a href="https://www.notion.so/moondongmin/Chapter-1-d3e489fbb89e477ba47fa560a600d359", target="_blank">Chapter01. 자료구조의 시작</a><br>
-    <a href="https://www.notion.so/moondongmin/Chapter-2-9d93f1d4569345d787844d39f9a70d6e", target="_blank">Chapter02. 배열 리스트 </a><br>
-    
-  
-   <body>
-<html>
+[Chapter 1. 자료구조의 시작](https://moondongmin.notion.site/Chapter-1-d3e489fbb89e477ba47fa560a600d359?pvs=4)
+
+[Chapter 2. 배열 리스트](https://www.notion.so/Chapter-2-9d93f1d4569345d787844d39f9a70d6e?pvs=21)
+
+[Chapter 3. 연결 리스트](https://www.notion.so/Chapter-3-cb188ada3ffd499faab7825705319884?pvs=21)
+
+[Chapter 4. 연결 리스트의 확장](https://www.notion.so/Chapter-4-0fbccdab552647d28ac8f0af27a7c528?pvs=21)
+
+[Chapter 5. 스택](https://www.notion.so/Chapter-5-b52dbce3c08f47f7b969ccd72a66e0cf?pvs=21)
+
+[Chapter 6. 스택의 적용](https://www.notion.so/Chapter-6-a3deea860eb546c09558f82d8ff9ee2a?pvs=21)
+
+[Chapter 7. 큐](https://www.notion.so/Chapter-7-69f56d3f36a2481394538ec5106764a8?pvs=21)
