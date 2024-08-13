@@ -12,3 +12,9 @@
 [Chapter 6. 스택의 적용](https://www.notion.so/Chapter-6-a3deea860eb546c09558f82d8ff9ee2a?pvs=21)
 
 [Chapter 7. 큐](https://www.notion.so/Chapter-7-69f56d3f36a2481394538ec5106764a8?pvs=21)
+
+[Chapter 8. 재귀 호출](https://moondongmin.notion.site/Chapter-8-c8cc715e85c1434ba34c0e4ae747b60c?pvs=4)
+
+[Chapter 9. 트리](https://www.notion.so/Chapter-9-0ee57b52f8594ca39099a895b460d4e1?pvs=21)
+
+[Chapter 10. 힙](https://www.notion.so/Chapter-10-27306c41ab4f4e608270422192161fba?pvs=21)
