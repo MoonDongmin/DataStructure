@@ -22,3 +22,5 @@
 [Chapter 10-1. 정렬](https://moondongmin.notion.site/Chapter-10-1-4434239499dd43fb99b3ee25bd03bb95?pvs=4)
 
 [Chapter 11-1. 그래프(1)](https://moondongmin.notion.site/Chapter-11-1-1-65352696335f47e891a1fd889b3349af?pvs=4)
+
+[Chapter 11-1. 그래프(2)](https://moondongmin.notion.site/Chapter-11-1-2-8ec41be433c94badbd59451b3b98355d?pvs=4)
