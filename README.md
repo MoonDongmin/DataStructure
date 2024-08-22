@@ -28,3 +28,5 @@
 [Chapter 11-2. 최단경로](https://moondongmin.notion.site/Chapter-11-2-1b7fdcc41cf6472f931b5a8150f15f25?pvs=4)
 
 [Chapter 11-3. MST](https://moondongmin.notion.site/Chapter-11-3-MST-249687f66c5d4a0caf78b3c60c1f5ff3?pvs=4)
+
+[Chapter 12. 검색](https://moondongmin.notion.site/Chapter-12-098044e950084ffdb9ec639af1afdabc?pvs=4)
